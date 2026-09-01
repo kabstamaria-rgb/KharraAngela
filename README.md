@@ -1,138 +1,118 @@
-# KharraAngela<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# 🎀✨ MY DESIGN PORTFOLIO ✨🎀
 
-    <title>My Portfolio</title>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9EC4,FFB6D9,FFD1E3&height=220&section=header&text=MY%20CREATIVE%20JOURNEY&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-    <link rel="stylesheet" href="style.css">
-</head>
+<p align="center">
+  💗 ────୨ৎ──── 💗
+</p>
 
-<body>
+<p align="center">
+  <b>Designing • Creating • Expressing ♡</b>
+</p>
 
-    <!-- Navigation -->
-    <header>
-        <nav>
-            <h1>My Portfolio</h1>
+---
 
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+## 🎀 01 — DESIGN PRINCIPLES
 
+### 📚 Presentation Design
 
-    <!-- Hero Section -->
-    <section class="hero">
-        <div>
-            <h2>Hello, I'm Your Name</h2>
+> *Understanding the rules behind a good design.* ✨
 
-            <p>
-                A student designer and developer passionate about
-                creating creative and user-friendly digital experiences.
-            </p>
+In this activity, I explored the **fundamental principles of design**
+and learned how they can be applied to create organized and effective
+visual presentations.
 
-            <a href="#projects" class="button">
-                View My Work
-            </a>
-        </div>
-    </section>
+**♡ Focus**
+- 🎯 Balance
+- ✨ Contrast
+- 📐 Alignment
+- 🌸 Proximity
+- 👑 Hierarchy
+- 🔁 Repetition
+- 🎨 Composition
 
+**💌 Final Output:**  
+`Design Principles Presentation`
 
-    <!-- About Section -->
-    <section id="about">
-        <h2>About Me</h2>
+---
 
-        <p>
-            I am a student interested in web design, development,
-            and digital creativity. This portfolio showcases my
-            projects, design process, technical skills, and
-            experiences.
-        </p>
-    </section>
+## 🩷 02 — COLOR + TYPOGRAPHY
 
+### 🎨 Visual Style Study
 
-    <!-- Projects Section -->
-    <section id="projects">
-        <h2>My Projects</h2>
+> *Giving a design its personality.* 💅✨
 
-        <div class="project-container">
+This activity focused on creating a **visual identity** by combining
+colors and typefaces. I experimented with different combinations to
+find styles that communicate a specific mood and message.
 
-            <article class="project-card">
-                <img src="images/project1.jpg" alt="Project 1">
+**♡ Focus**
+- 🌷 Color Theory
+- 🎀 Color Palette Creation
+- 💕 Color Harmony
+- ✍🏻 Typography
+- 💌 Font Pairing
+- 👑 Visual Hierarchy
 
-                <h3>Project One</h3>
+**💌 Final Output:**  
+`Color Palette + Typography Board`
 
-                <p>
-                    A brief description of the project,
-                    its purpose, and the problem it solves.
-                </p>
+---
 
-                <p>
-                    <strong>Technologies:</strong>
-                    HTML, CSS, JavaScript
-                </p>
-            </article>
+## 💖 03 — SOCIAL MEDIA INFOGRAPHICS
 
+### 📱 Mini Project + Documentation
 
-            <article class="project-card">
-                <img src="images/project2.jpg" alt="Project 2">
+> *Putting everything together and making it ✨social-media ready✨.*
 
-                <h3>Project Two</h3>
+For this activity, I applied the design principles, colors, and
+typography from the previous activities to create **social media
+infographics** and document my mini project from concept to final output.
 
-                <p>
-                    A description of another project,
-                    including your creative and technical approach.
-                </p>
+**♡ Focus**
+- 📱 Social Media Graphics
+- 📊 Infographic Design
+- 💭 Visual Storytelling
+- 🎨 Layout & Composition
+- ✨ Information Presentation
+- 📖 Mini Project Documentation
 
-                <p>
-                    <strong>Technologies:</strong>
-                    HTML, CSS
-                </p>
-            </article>
+**💌 Final Output:**  
+`Social Media Infographics + Mini Project Documentation`
 
-        </div>
-    </section>
+---
 
+## 🎀 ୨ৎ MY CREATIVE PROGRESS ୨ৎ 🎀
 
-    <!-- Skills Section -->
-    <section id="skills">
-        <h2>Skills</h2>
+### 01 → LEARN 📚
+**Design Principles**
 
-        <ul class="skills-list">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>UI/UX Design</li>
-            <li>Graphic Design</li>
-            <li>Git & GitHub</li>
-        </ul>
-    </section>
+⬇️
 
+### 02 → STYLE 🎨
+**Color + Typography**
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <h2>Contact</h2>
+⬇️
 
-        <p>
-            Interested in working with me or learning more about
-            my projects?
-        </p>
+### 03 → CREATE 📱
+**Infographics + Mini Project**
 
-        <a href="mailto:your-email@example.com">
-            Email Me
-        </a>
-    </section>
+---
 
+<p align="center">
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2026 Your Name. All rights reserved.</p>
-    </footer>
+💗 **LEARN → EXPLORE → CREATE** 💗
 
-</body>
-</html>
+<br><br>
+
+🎀 *A little creativity can make every idea beautiful.* 🎀
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9EC4,FFB6D9,FFD1E3&height=120&section=footer" />
+</p>
