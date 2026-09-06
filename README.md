@@ -1,83 +1,103 @@
-# 🎀 MY DIGITAL PORTFOLIO
+# 🎀 𝓚𝓱𝓪𝓻𝓻𝓪'𝓼 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸 ♡
 
-Welcome to my digital portfolio! ✨  
+୨୧ ─────────────── ୨୧
 
-This repository contains my activities and outputs created throughout the course.
+> ✨ a little collection of my activities, learnings, and creative outputs ✨
 
----
+hi, i'm **Kharra Angela!** 🌷  
 
-## 🌷 ACTIVITY 1
+welcome to my digital portfolio, where i keep some of my favorite school activities and outputs. 🎀
 
-### 🎨 Presentation Design
+୨୧ ─────────────── ୨୧
 
-This activity focuses on the importance of effective presentation design in communicating ideas, improving understanding, engaging an audience, and creating meaningful and memorable presentations.
+## 🌸 𝓐𝓒𝓣𝓘𝓥𝓘𝓣𝓨 𝟎𝟏
 
-📌 **What I Learned**
+### 🎀 Presentation Design
 
-- 🎨 The importance of visual design
+✧｡:* This activity focused on understanding the **importance of presentation design** and how visual elements can help communicate ideas effectively.
 
-- 💡 How to communicate ideas clearly
+### 💗 𝓦𝓱𝓪𝓽 𝓘 𝓛𝓮𝓪𝓻𝓷𝓮𝓭
 
-- 📖 How organization improves understanding
+♡ Good design makes information easier to understand  
 
-- 👀 How visuals can engage an audience
+♡ Visuals can make a presentation more engaging  
 
-- ✨ How good design can make presentations more meaningful
+♡ Organization helps communicate ideas clearly  
 
-📄 **View Activity 1**
+♡ Creative designs can make information memorable  
 
-[📥 Open Activity 1](activity1.pdf)
+♡ Presentation design is more than just making slides look pretty ✨
 
----
+> 🌷 **My takeaway:**  
 
-## 💻 ACTIVITY 2
+> Effective presentation design helps transform information into something that is clear, engaging, and meaningful to the audience.
 
-### 🛡️ Cyberbullying: Teenage Digital Life
+🎀 ───────────────────── 🎀
 
-This activity presents information about cyberbullying, including what it is, why it matters, and how digital platforms can contribute to the experience of cyberbullying among young people.
+## 🦢 𝓐𝓒𝓣𝓘𝓥𝓘𝓣𝓨 𝟎𝟐
 
-🖼️ **Activity 2 Output**
+### 💻 Cyberbullying: Teenage Digital Life
 
-![Activity 2](activity2.png)
+This activity explores **cyberbullying and its impact on teenagers in today's digital world.** 📱
 
-📄 **PDF Version**
+### 🌐 𝓦𝓱𝓪𝓽 𝓘 𝓛𝓮𝓪𝓻𝓷𝓮𝓭
 
-[📥 Open Activity 2](activity2.pdf)
+♡ Cyberbullying can happen through social media and messaging platforms  
 
----
+♡ Online actions can have real-life effects  
 
-## 🌸 ACTIVITY 3
+♡ Teenagers can be especially vulnerable to online harassment  
 
-### ✨ My Activity 3 Output
+♡ Being responsible online is important  
 
-This activity showcases my understanding and application of the concepts discussed in class through a creative and organized output.
+♡ Awareness can help create a safer digital environment 🌷
 
-📝 **What I Learned**
+### 🎀 𝓚𝓮𝔂 𝓜𝓮𝓼𝓼𝓪𝓰𝓮
 
-- 💡 Applied the concepts discussed in class
+> 💌 **Think before you post, type, or share.**
 
-- 🎨 Used creativity and visual design
+>
 
-- 🧠 Developed my understanding of the topic
+> Behind every screen is a real person with real feelings. ♡
 
-- 📚 Improved my ability to organize information
+🎀 ───────────────────── 🎀
 
-📄 **View Activity 3**
+## 🌷 𝓐𝓒𝓣𝓘𝓥𝓘𝓣𝓨 𝟎𝟑
 
-[📥 Open Activity 3](activity3.pdf)
+### ✨ Creative Learning Output
 
----
+This activity allowed me to apply the concepts discussed in class through a creative and organized output. 🎀
 
-# 💗 MY REFLECTION
+### 💕 𝓦𝓱𝓪𝓽 𝓘 𝓛𝓮𝓪𝓻𝓷𝓮𝓭
 
-These activities helped me develop my creativity, communication, and presentation skills. I learned that effective design is not only about making an output look attractive, but also about presenting information in a clear, organized, and meaningful way.
+♡ Applied concepts discussed in class  
 
-Through these activities, I was able to apply what I learned while creating outputs that are informative, engaging, and visually appealing. ✨
+♡ Practiced creativity and visual communication  
 
----
+♡ Improved my organization of information  
 
-## 🌷 THANK YOU!
+♡ Learned how to present ideas in a more engaging way  
 
-Thank you for visiting my digital portfolio! ♡
+♡ Developed confidence in creating digital outputs ✨
 
-**Made with 💗 by Kharra Angela**
+> 🌸 **Little reminder:**  
+
+> Learning can be creative, colorful, and fun too! ♡
+
+🎀 ───────────────────── 🎀
+
+# 💌 𝓜𝔂 𝓡𝓮𝓯𝓵𝓮𝓬𝓽𝓲𝓸𝓷
+
+These activities allowed me to develop my creativity, communication, and presentation skills. I learned that creating an effective output is not only about making it visually appealing, but also about making sure that the information is clear, organized, and meaningful.
+
+Through these activities, I was able to express my ideas creatively while applying the concepts I learned in class. Each activity helped me become more confident in presenting information in a way that can capture attention and improve understanding. 🌷
+
+୨୧ ─────────────── ୨୧
+
+## 🎀 𝓣𝓱𝓪𝓽'𝓼 𝓪 𝔀𝓻𝓪𝓹! ♡
+
+thank you for stopping by my little digital portfolio! 🧁🌸
+
+**made with ♡ by Kharra Angela**
+
+୨୧ ─────────────── ୨୧
