@@ -1,118 +1,83 @@
-# 🎀✨ MY DESIGN PORTFOLIO ✨🎀
+# 🎀 MY DIGITAL PORTFOLIO
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9EC4,FFB6D9,FFD1E3&height=220&section=header&text=MY%20CREATIVE%20JOURNEY&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+Welcome to my digital portfolio! ✨  
 
-<p align="center">
-  💗 ────୨ৎ──── 💗
-</p>
-
-<p align="center">
-  <b>Designing • Creating • Expressing ♡</b>
-</p>
+This repository contains my activities and outputs created throughout the course.
 
 ---
 
-## 🎀 01 — DESIGN PRINCIPLES
+## 🌷 ACTIVITY 1
 
-### 📚 Presentation Design
+### 🎨 Presentation Design
 
-> *Understanding the rules behind a good design.* ✨
+This activity focuses on the importance of effective presentation design in communicating ideas, improving understanding, engaging an audience, and creating meaningful and memorable presentations.
 
-In this activity, I explored the **fundamental principles of design**
-and learned how they can be applied to create organized and effective
-visual presentations.
+📌 **What I Learned**
 
-**♡ Focus**
-- 🎯 Balance
-- ✨ Contrast
-- 📐 Alignment
-- 🌸 Proximity
-- 👑 Hierarchy
-- 🔁 Repetition
-- 🎨 Composition
+- 🎨 The importance of visual design
 
-**💌 Final Output:**  
-`Design Principles Presentation`
+- 💡 How to communicate ideas clearly
 
----
+- 📖 How organization improves understanding
 
-## 🩷 02 — COLOR + TYPOGRAPHY
+- 👀 How visuals can engage an audience
 
-### 🎨 Visual Style Study
+- ✨ How good design can make presentations more meaningful
 
-> *Giving a design its personality.* 💅✨
+📄 **View Activity 1**
 
-This activity focused on creating a **visual identity** by combining
-colors and typefaces. I experimented with different combinations to
-find styles that communicate a specific mood and message.
-
-**♡ Focus**
-- 🌷 Color Theory
-- 🎀 Color Palette Creation
-- 💕 Color Harmony
-- ✍🏻 Typography
-- 💌 Font Pairing
-- 👑 Visual Hierarchy
-
-**💌 Final Output:**  
-`Color Palette + Typography Board`
+[📥 Open Activity 1](activity1.pdf)
 
 ---
 
-## 💖 03 — SOCIAL MEDIA INFOGRAPHICS
+## 💻 ACTIVITY 2
 
-### 📱 Mini Project + Documentation
+### 🛡️ Cyberbullying: Teenage Digital Life
 
-> *Putting everything together and making it ✨social-media ready✨.*
+This activity presents information about cyberbullying, including what it is, why it matters, and how digital platforms can contribute to the experience of cyberbullying among young people.
 
-For this activity, I applied the design principles, colors, and
-typography from the previous activities to create **social media
-infographics** and document my mini project from concept to final output.
+🖼️ **Activity 2 Output**
 
-**♡ Focus**
-- 📱 Social Media Graphics
-- 📊 Infographic Design
-- 💭 Visual Storytelling
-- 🎨 Layout & Composition
-- ✨ Information Presentation
-- 📖 Mini Project Documentation
+![Activity 2](activity2.png)
 
-**💌 Final Output:**  
-`Social Media Infographics + Mini Project Documentation`
+📄 **PDF Version**
+
+[📥 Open Activity 2](activity2.pdf)
 
 ---
 
-## 🎀 ୨ৎ MY CREATIVE PROGRESS ୨ৎ 🎀
+## 🌸 ACTIVITY 3
 
-### 01 → LEARN 📚
-**Design Principles**
+### ✨ My Activity 3 Output
 
-⬇️
+This activity showcases my understanding and application of the concepts discussed in class through a creative and organized output.
 
-### 02 → STYLE 🎨
-**Color + Typography**
+📝 **What I Learned**
 
-⬇️
+- 💡 Applied the concepts discussed in class
 
-### 03 → CREATE 📱
-**Infographics + Mini Project**
+- 🎨 Used creativity and visual design
 
----
+- 🧠 Developed my understanding of the topic
 
-<p align="center">
+- 📚 Improved my ability to organize information
 
-💗 **LEARN → EXPLORE → CREATE** 💗
+📄 **View Activity 3**
 
-<br><br>
-
-🎀 *A little creativity can make every idea beautiful.* 🎀
-
-</p>
+[📥 Open Activity 3](activity3.pdf)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9EC4,FFB6D9,FFD1E3&height=120&section=footer" />
-</p>
+# 💗 MY REFLECTION
+
+These activities helped me develop my creativity, communication, and presentation skills. I learned that effective design is not only about making an output look attractive, but also about presenting information in a clear, organized, and meaningful way.
+
+Through these activities, I was able to apply what I learned while creating outputs that are informative, engaging, and visually appealing. ✨
+
+---
+
+## 🌷 THANK YOU!
+
+Thank you for visiting my digital portfolio! ♡
+
+**Made with 💗 by Kharra Angela**
